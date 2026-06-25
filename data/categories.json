@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Family",
+    "parent": ""
+  },
+  {
+    "name": "Home",
+    "parent": ""
+  },
+  {
+    "name": "Bills",
+    "parent": ""
+  },
+  {
+    "name": "Income",
+    "parent": ""
+  },
+  {
+    "name": "Loan & Debt",
+    "parent": ""
+  },
+  {
+    "name": "Operational",
+    "parent": ""
+  },
+  {
+    "name": "Gikhes",
+    "parent": "Family"
+  },
+  {
+    "name": "Bae",
+    "parent": "Family"
+  },
+  {
+    "name": "Abiel",
+    "parent": "Bae"
+  },
+  {
+    "name": "Egu",
+    "parent": "Gikhes"
+  },
+  {
+    "name": "Tata",
+    "parent": "Family"
+  },
+  {
+    "name": "Groceries",
+    "parent": "Home"
+  },
+  {
+    "name": "Foods & Drinks",
+    "parent": "Home"
+  },
+  {
+    "name": "Lending",
+    "parent": "Loan & Debt"
+  },
+  {
+    "name": "Debt",
+    "parent": "Loan & Debt"
+  },
+  {
+    "name": "Home Maintenance",
+    "parent": "Home"
+  },
+  {
+    "name": "Electricity",
+    "parent": "Bills"
+  },
+  {
+    "name": "Gas",
+    "parent": "Bills"
+  },
+  {
+    "name": "Phone",
+    "parent": "Bills"
+  },
+  {
+    "name": "Internet",
+    "parent": "Bills"
+  },
+  {
+    "name": "Water",
+    "parent": "Bills"
+  },
+  {
+    "name": "Security",
+    "parent": "Bills"
+  },
+  {
+    "name": "Garbage",
+    "parent": "Bills"
+  },
+  {
+    "name": "Petrol",
+    "parent": "Bills"
+  },
+  {
+    "name": "Update Balance",
+    "parent": "Operational"
+  },
+  {
+    "name": "Payroll",
+    "parent": "Income"
+  },
+  {
+    "name": "THR",
+    "parent": "Income"
+  },
+  {
+    "name": "Gift",
+    "parent": "Income"
+  },
+  {
+    "name": "Credit Card",
+    "parent": "Debt"
+  },
+  {
+    "name": "Home Improvement",
+    "parent": "Home"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Bank Mandiri Gikhes",
+    "account_balance": 0.0
+  },
+  {
+    "name": "Bank Mandiri Bae",
+    "account_balance": 0.0
+  },
+  {
+    "name": "Bank BCA Gikhes",
+    "account_balance": 0.0
+  },
+  {
+    "name": "Bank BCA Bae",
+    "account_balance": 0.0
+  },
+  {
+    "name": "Bank Lampung Gikhes",
+    "account_balance": 3435345.0
+  },
+  {
+    "name": "Bank Lampung Bae",
+    "account_balance": 0.0
+  },
+  {
+    "name": "Bank BII Gikhes",
+    "account_balance": 0.0
+  },
+  {
+    "name": "Cash Gikhes",
+    "account_balance": 0.0
+  },
+  {
+    "name": "Cash Bae",
+    "account_balance": 0.0
+  }
+]
